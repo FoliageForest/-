@@ -1,1 +1,8 @@
-没有没有
+// 没有没有
+#include<stdio.h>
+
+int main(void)
+{
+    printf("Hello,GitHub!\n");
+    return 0;
+}
